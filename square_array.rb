@@ -4,7 +4,6 @@ def square_array(array)
     new_numbers << x ** 2 
     new_numbers << x ** 2
     new_numbers << x ** 2
-    new_numbers
   end
 end
 
